@@ -1,4 +1,4 @@
-package com.kyujitu.animonaikyujitu.sample;
+package com.kyujitu.nanimonaikyujitu.sample;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

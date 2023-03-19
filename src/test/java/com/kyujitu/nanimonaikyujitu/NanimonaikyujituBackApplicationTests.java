@@ -1,4 +1,4 @@
-package com.kyujitu.animonaikyujitu;
+package com.kyujitu.nanimonaikyujitu;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
